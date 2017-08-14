@@ -32,6 +32,7 @@ html {
 @media only screen and (max-width: 760px) {
   .main-content {
     top: 2.5625rem;
+    width: 100%;
   }
 }
 
